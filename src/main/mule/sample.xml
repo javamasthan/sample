@@ -11,5 +11,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 		<http:listener doc:name="Listener" doc:id="238849f5-4aad-4b6f-b1fe-b32840faa239" config-ref="HTTP_Listener_config" path="/sampleTest"/>
 		<logger level="INFO" doc:name="Logger" doc:id="11520db4-4e0d-4810-a3a9-bb6936ccc916" message="This is Git sample Demo:::::::::::::::::::"/>
 		<logger level="INFO" doc:name="Logger" doc:id="f121ff42-700f-4292-a0a7-99e15a46936c" message="this is done regarding chnages::::::::::::"/>
+		<logger level="INFO" doc:name="Logger" doc:id="625a07e2-cf0c-479a-9c2c-b8693d446ea4" message="this is for fourth comit::::::::::::::"/>
 	</flow>
 </mule>
